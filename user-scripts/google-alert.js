@@ -4,6 +4,6 @@
 // @match https://www.google.com/*
 // ==/UserScript==
 
-// (function () {
-//   alert("Testing google!");
-// })()
+(function () {
+  alert("Testing google!");
+})()
