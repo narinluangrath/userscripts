@@ -5,5 +5,5 @@
 // ==/UserScript==
 
 (function () {
-  alert("Testing google!");
+  alert("Testing pooooooop!");
 })()
