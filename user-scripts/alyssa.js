@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Alyssa
 // @version 1.0
-// @match https://www.amazon.com/*
+// @match https://www.bees.com/*
 // ==/UserScript==
 
 (function () {
