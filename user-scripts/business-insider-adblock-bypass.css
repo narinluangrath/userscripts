@@ -1,0 +1,17 @@
+// ==UserScript==
+// @name Business Insider Adblock Bypass
+// @version 1.0
+// @match https://www.businessinsider.com/*
+// ==/UserScript==
+
+.tp-modal {
+  display: none !important;
+}
+
+.tp-backdrop .tp-active {
+  display: none !important;
+}
+
+body {
+  overflow: unset !important;
+}
